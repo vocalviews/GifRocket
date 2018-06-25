@@ -3,3 +3,7 @@ node_modules/
 
 # rc-apps package output
 dist/
+
+.idea
+.DS_Store
+*/.DS_Store
