@@ -1,0 +1,15 @@
+{
+    "id": "f46d8404-fae6-4a32-bbe0-dfc12e77ca82",
+    "version": "0.0.1",
+    "requiredApiVersion": "^0.9.13",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Manuel Bachl",
+        "homepage": "https://github.com/FinndropStudios",
+        "support": "https://github.com/FinndropStudios/GifRocket/issues"
+    },
+    "name": "GifRocket",
+    "nameSlug": "gifrocket",
+    "classFile": "GifRocketApp.ts",
+    "description": "Provides Slash-Commands to post Gifs in chats (Giphy, Guggy)"
+}
